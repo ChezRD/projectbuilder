@@ -1,0 +1,54 @@
+{
+  "name": "projectbuilder",
+  "version": "1.0.2",
+  "description": "Project builder basis of Gulp",
+  "keywords": [
+    "gulp",
+    "jade",
+    "less",
+    "js",
+    "front-end",
+    "web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pankovseryi/projectbuilder"
+  },
+  "author": {
+    "name": "Sergey Pankov",
+    "email": "pankov.seryi@gmail.com",
+    "twitter": "@pankovseryi"
+  },
+  "bugs": {
+    "url": "https://github.com/pankovseryi/projectbuilder/issues"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "browserify": "latest",
+    "chokidar": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-changed": "latest",
+    "gulp-concat": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-csso": "latest",
+    "gulp-if": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-jade": "latest",
+    "gulp-jshint": "latest",
+    "gulp-less": "latest",
+    "gulp-minify-html": "latest",
+    "gulp-notify": "latest",
+    "gulp-rename": "latest",
+    "gulp-replace-task": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "gulp-vinyl-zip": "latest",
+    "moment": "latest",
+    "run-sequence": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest"
+  }
+}
